@@ -11,7 +11,7 @@ Obtain the database tables for this starter project within the `database` folder
 #### Two Spreedsheet Files:
 The reason behind two files between COVID-19 vaccinations and deaths data for this starter project was for optimization and clarity purposes for certain queries.
 
-**CovidDeaths**
+**Covid_Deaths**
 
-**CovidVaccinations**
+**Covid_Vaccinations**
 
